@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 TEST
 TEST
+=======
+TEST
+TEST
+>>>>>>> origin/master
 TEST
